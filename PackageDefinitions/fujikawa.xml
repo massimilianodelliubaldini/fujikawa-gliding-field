@@ -1,0 +1,31 @@
+<AssetPackage Name="fujikawa" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Fujikawa Gliding Field</Title>
+		<Manufacturer/>
+		<Creator>Markus Tullius Cicero</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fujikawa\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\fujikawa</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fujikawa">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>assets</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

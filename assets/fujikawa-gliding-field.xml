@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="Shizuoka" country="Japan" city="Fujikawa" name="Fujikawa Gliding Field" ident="RJFJ" lat="35.12102465184213" lon="138.63172485808010" alt="5.17668736474506" magvar="-7.660000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="35.12091408598985" lon="138.63167674864289" alt="5.17730668932199" heading="169.00000000000000" length="850.00000000000000" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="18" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<OffsetThreshold end="PRIMARY" surface="{00000000-0000-0000-0000-000000000000}" length="80.000000"/>
+			<OffsetThreshold end="SECONDARY" surface="{00000000-0000-0000-0000-000000000000}" length="50.000000"/>
+			<RunwayStart end="PRIMARY" lat="35.12372521947380" lon="138.63101430977807" alt="5.16133757308125" heading="168.97375488281250"/>
+			<RunwayStart end="SECONDARY" lat="35.11804468825605" lon="138.63236425974878" alt="5.20355990715325" heading="-11.02673339843750"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

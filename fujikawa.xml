@@ -1,0 +1,8 @@
+<Project Version="2" Name="fujikawa" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\fujikawa.xml</Package>
+	</Packages>
+</Project>
+
